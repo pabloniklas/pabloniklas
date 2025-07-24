@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Niklas</h1>
-<h3 align="center">A passionate developer from Argentina</h3>
+<h3 align="center">Just another developer, this time from Argentina</h3>
 
 - 🔭 I’m currently working on [pebug](https://github.com/pabloniklas/pebug)
 
